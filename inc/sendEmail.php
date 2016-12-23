@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'wceriale@cs.uw.edu';
+$siteOwnersEmail = 'wceriale@cs.washington.edu';
 
 
 if($_POST) {
